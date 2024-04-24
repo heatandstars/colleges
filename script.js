@@ -24,6 +24,12 @@ markList = [
     "longitude": -71.0942,
   },
   {
+    "name": "University of Southern California",
+    "url": "https://www.instagram.com/uscscale/?hl=en",
+    "latitude": 34.0224,
+    "longitude": -118.2851,
+  },
+  {
     "name": "Tufts University",
     "url": "https://www.instagram.com/sjptufts/?hl=en",
     "latitude": 42.4085,
