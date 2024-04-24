@@ -5,7 +5,7 @@ html, body {
   color: white;
    background-color: black;
 }
-h2 {
+.header {
   padding-left: 20px;
 }
 .leaflet-container {
