@@ -60,6 +60,24 @@ markList = [
     "longitude": -83.0305,
   },
   {
+    "name": "The New School",
+    "url": "https://www.instagram.com/tns.sjp/?hl=en",
+    "latitude": 40.7346770613,
+    "longitude": -73.9915093673,
+  },
+  {
+    "name": "Cornell University",
+    "url": "https://www.instagram.com/sjp.atcornell/",
+    "latitude": 40.807537,
+    "longitude": -73.962570,
+  },
+  {
+    "name": "University of Texas at Dallas",
+    "url": "https://www.instagram.com/sjputd/?hl=en",
+    "latitude": 32.9857,
+    "longitude": -96.7502,
+  },
+  {
     "name": "University of Michigan",
     "url": "https://www.instagram.com/safeumich/?hl=en",
     "latitude": 42.2771,
