@@ -30,6 +30,12 @@ markList = [
     "longitude": -71.1183,
   },
   {
+    "name": "California Polytechnic State University",
+    "url": "https://www.instagram.com/sjptufts/?hl=en",
+    "latitude": 35.3050,
+    "longitude": -120.6625,
+  },
+  {
     "name": "Emerson College",
     "url": "https://www.instagram.com/sjpemerson/",
     "latitude": 42.3522,
