@@ -109,7 +109,7 @@ markList = [
   }
 ]
   
-const map = L.map('map').setView([40.56573260763389, -98.5092959770265], 5);
+const map = L.map('map').setView([38.475938403478644, -111.36557986686131], 5);
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
