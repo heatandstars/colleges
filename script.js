@@ -1,7 +1,7 @@
 markList = [
   {
     "name": "Smith College",
-    "url": "https:google.com",
+    "url": "https://www.instagram.com/smith_sjp/",
     "latitude": 42.328674,
     "longitude": -72.664658,
   },
@@ -55,7 +55,7 @@ markList = [
   },
   {
     "name": "Columbia University",
-    "url": "https:ge.com",
+    "url": "https://www.instagram.com/sjp.columbia/?hl=en",
     "latitude": 40.807537,
     "longitude": -73.962570,
   },
@@ -93,4 +93,4 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 markList.forEach(m => 
    L.marker([m.latitude, m.longitude]).addTo(map)
-            .bindPopup(`<b>${m.name}</b><br /><a href=${m.url}>Link to IG page</a>`).closePopup());
+            .bindPopup(`<b>${m.name}</b><br /><a href=${m.url} target="_blank">Link to IG page</a>`).closePopup());
