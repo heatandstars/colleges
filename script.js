@@ -72,6 +72,12 @@ markList = [
     "longitude": -71.4025,
   },
   {
+    "name": "UC Berkley",
+    "url": "https://www.instagram.com/berkeleylawforpalestine/?hl=en",
+    "latitude": 37.8702,
+    "longitude": -122.259094,
+  },
+  {
     "name": "University of North Carolina",
     "url": "https://www.instagram.com/uncsjp/?hl=en",
     "latitude": 35.9049,
