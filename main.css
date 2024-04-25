@@ -29,6 +29,7 @@ html, body {
 }
 p {
   margin-top: 0 !important;
+  display: inline;
 }
 h2 {
   margin-bottom: 1rem !important;
