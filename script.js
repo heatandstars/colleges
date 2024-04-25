@@ -132,6 +132,8 @@ markList = [
     "longitude": -72.922585,
   },
 ]
+
+document.getElementById("total").innerHTML = `This map currently includes ${markList.length} universities and colleges`;
   
 const map = L.map('map').setView([37.0902, -97.7129], 4);
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
