@@ -30,6 +30,12 @@ markList = [
     "longitude": -118.2851,
   },
   {
+    "name": "The City University of New York (CUNY)",
+    "url": "https://www.instagram.com/cunygse/",
+    "latitude": 42.6553802,
+    "longitude": -73.7597107,
+  },
+  {
     "name": "Tufts University",
     "url": "https://www.instagram.com/sjptufts/?hl=en",
     "latitude": 42.4085,
