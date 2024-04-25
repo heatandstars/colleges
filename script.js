@@ -95,6 +95,11 @@ markList = [
     "coords": [35.9049,-79.0469],
   },
   {
+    "name": "University of Pittsburgh",
+    "url": "https://www.instagram.com/sjp_pitt/?hl=en",
+    "coords": [40.4443830512105, -79.96070916523215],
+  },
+  {
     "name": "University of Rochester",
     "url": "https://www.instagram.com/sjp.ur/?hl=en",
     "coords": [43.122429,-77.630676],
@@ -103,6 +108,11 @@ markList = [
     "name": "University of Southern California (USC)",
     "url": "https://www.instagram.com/uscscale/?hl=en",
     "coords": [34.0224,-118.2851],
+  },
+  {
+    "name": "University of Texas st Arlington",
+    "url": "https://www.instagram.com/sjp.uta",
+    "coords": [32.72941023391459, -97.11525074839436],
   },
   {
     "name": "University of Texas st Austin",
