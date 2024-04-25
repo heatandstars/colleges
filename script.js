@@ -118,7 +118,7 @@ markList = [
     "url": "https://www.instagram.com/psc_atx/?hl=en",
     "latitude": 30.291144043400674,
     "longitude": -97.73432705312356,
-  }
+  },
   {
     "name": "University of Texas at Dallas",
     "url": "https://www.instagram.com/sjputd/?hl=en",
