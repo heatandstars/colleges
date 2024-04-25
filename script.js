@@ -20,7 +20,7 @@ markList = [
   {
     "name": "The City University of New York (CUNY)",
     "url": "https://www.instagram.com/cunygse/",
-    "la. itude": 42.6553802,
+    "latitude": 42.6553802,
     "longitude": -73.7597107,
   },
   {
